@@ -1,4 +1,4 @@
-# BiosecurityInEnglishAnglers_Smithetal2022
+# BiosecurityInEnglishAnglers_Smithetal2018
 Contains the data analysis code used to clean and process the 2018 EA angling survey for the paper:
 
 Understanding and improving biosecurity among recreational anglers: overcoming barriers and communicating with stakeholders in Great Britain 
